@@ -1,2 +1,6 @@
 - [关于](README.md)
-- [部署](deploy.md)
+- [团队成员](deploy.md)
+- [项目介绍](README.md)
+- [应用技术](README.md)
+- [代码模块](README.md)
+- [互动交流](README.md)
